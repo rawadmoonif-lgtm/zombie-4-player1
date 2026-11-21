@@ -1,0 +1,15 @@
+{
+  "name": "deadlands",
+  "version": "1.0.0",
+  "description": "DEADLANDS - co-op zombie survival, online browser game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
